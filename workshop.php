@@ -35,7 +35,7 @@
                         <span class="dvdr"><i class="fa-regular fa-angle-right"></i></span>
                         <span><a href="courses">Cursos</a></span>
                         <span class="dvdr"><i class="fa-regular fa-angle-right"></i></span>
-                        <span><a href="diseño-e-interiores">Diseño-interiores</a></span>
+                        <span><a href="diseno-e-interiores">Diseño-interiores</a></span>
                         <span class="dvdr"><i class="fa-regular fa-angle-right"></i></span>
                         <span class="sub-page-black">Workshop</span>
                      </div>

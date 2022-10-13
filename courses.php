@@ -193,9 +193,9 @@
                <div class="col-xl-4 col-lg-6 col-md-6">
                   <div class="tpcourse mb-40">
                      <div class="tpcourse__thumb p-relative w-img fix">
-                        <a href="diseño-e-interiores"><img src="assets/img/course/diseño-interiores.jpg" alt="course-thumb"></a>
+                        <a href="diseno-e-interiores"><img src="assets/img/course/diseño-interiores.jpg" alt="course-thumb"></a>
                         <div class="tpcourse__tag">
-                           <a href="diseño-e-interiores"><i class="fi fi-rr-heart"></i></a>
+                           <a href="diseno-e-interiores"><i class="fi fi-rr-heart"></i></a>
                         </div>
                         <div class="tpcourse__img-icon">
                            <img src="assets/img/icon/fracta-icon.png" alt="course-avata">
@@ -204,11 +204,11 @@
                      <div class="tpcourse__content-2">
 
                         <div class="tpcourse__ava-title mb-15">
-                           <h4 class="tpcourse__title tp-cours-title-color"><a href="diseño-e-interiores">Diseño e interiorismo</a></h4>
+                           <h4 class="tpcourse__title tp-cours-title-color"><a href="diseno-e-interiores">Diseño e interiorismo</a></h4>
                         </div>
                         <div class="tpcourse__category mb-10">
                            <ul class="tpcourse__price-list d-flex align-items-center">
-                              <li><a class="c-color-yellow" href="diseño-e-interiores">Ver Cursos</a></li>
+                              <li><a class="c-color-yellow" href="diseno-e-interiores">Ver Cursos</a></li>
                               <li><a class="c-color-green" href="https://api.whatsapp.com/send?phone=985153508&text=Hola, Nececito mas informacion sobre el curso Diseño e interiorismo" target="_blank"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
                               
                            </ul>

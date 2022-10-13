@@ -198,9 +198,9 @@
                <div class="col-xl-4 col-lg-6 col-md-6">
                   <div class="tpcourse mb-40">
                      <div class="tpcourse__thumb p-relative w-img fix">
-                        <a href="post-producción-arquitectonica"><img src="assets/img/course/photoshop2.jpg" alt="course-thumb"></a>
+                        <a href="post-produccion-arquitectonica"><img src="assets/img/course/photoshop2.jpg" alt="course-thumb"></a>
                         <div class="tpcourse__tag">
-                           <a href="post-producción-arquitectonica"><i class="fi fi-rr-heart"></i></a>
+                           <a href="post-produccion-arquitectonica"><i class="fi fi-rr-heart"></i></a>
                         </div>
                         <div class="tpcourse__img-icon">
                            <img src="assets/img/icon/fracta-icon.png" alt="course-avata">
@@ -209,12 +209,12 @@
                      <div class="tpcourse__content-2">
 
                         <div class="tpcourse__ava-title mb-15">
-                           <h4 class="tpcourse__title tp-cours-title-color"><a href="post-producción-arquitectonica">Post-Producción Arquitectonica</a></h4>
+                           <h4 class="tpcourse__title tp-cours-title-color"><a href="post-produccion-arquitectonica">Post-Producción Arquitectonica</a></h4>
                            <br>
                         </div>
                         <div class="tpcourse__category mb-10">
                            <ul class="tpcourse__price-list d-flex align-items-center">
-                           <li><a class="c-color-yellow" href="post-producción-arquitectonica">Mas detalles</a></li>
+                           <li><a class="c-color-yellow" href="post-produccion-arquitectonica">Mas detalles</a></li>
                            <li><a class="c-color-green" href="https://api.whatsapp.com/send?phone=985153508&text=Hola, Nececito mas informacion sobre el curso Post-Producción Arquitectonica" target="_blank"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
                               
                            </ul>
@@ -243,9 +243,9 @@
                <div class="col-xl-4 col-lg-6 col-md-6">
                   <div class="tpcourse mb-40">
                      <div class="tpcourse__thumb p-relative w-img fix">
-                        <a href="post-producción-de-plantas-arquitectonica"><img src="assets/img/course/photoshop3.jpg" alt="course-thumb"></a>
+                        <a href="post-produccion-de-plantas-arquitectonica"><img src="assets/img/course/photoshop3.jpg" alt="course-thumb"></a>
                         <div class="tpcourse__tag">
-                           <a href="post-producción-de-plantas-arquitectonica"><i class="fi fi-rr-heart"></i></a>
+                           <a href="post-produccion-de-plantas-arquitectonica"><i class="fi fi-rr-heart"></i></a>
                         </div>
                         <div class="tpcourse__img-icon">
                            <img src="assets/img/icon/fracta-icon.png" alt="course-avata">
@@ -254,11 +254,11 @@
                      <div class="tpcourse__content-2">
 
                         <div class="tpcourse__ava-title mb-15">
-                           <h4 class="tpcourse__title tp-cours-title-color"><a href="post-producción-de-plantas-arquitectonica">Post-Producción de Plantas Arquitectonica</a></h4>
+                           <h4 class="tpcourse__title tp-cours-title-color"><a href="post-produccion-de-plantas-arquitectonica">Post-Producción de Plantas Arquitectonica</a></h4>
                         </div>
                         <div class="tpcourse__category mb-10">
                            <ul class="tpcourse__price-list d-flex align-items-center">
-                           <li><a class="c-color-yellow" href="post-producción-de-plantas-arquitectonica">Mas detalles</a></li>
+                           <li><a class="c-color-yellow" href="post-produccion-de-plantas-arquitectonica">Mas detalles</a></li>
                            <li><a class="c-color-green" href="https://api.whatsapp.com/send?phone=985153508&text=Hola, Nececito mas informacion sobre el curso Post-Producción de Plantas Arquitectonica" target="_blank"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
                               
                            </ul>
