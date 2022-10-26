@@ -61,7 +61,7 @@
                            <i class="fi fi-rr-user"></i>
                         </div>
                         <div class="tpfea__text">
-                           <h5 class="tpfea__title mb-5">Formador Experto</h5>
+                           <h5 class="tpfea__title mb-5">Formadores Expertos</h5>
                         </div>
                      </div>
                   </div>
@@ -120,7 +120,7 @@
                         </div>
                         <div class="tpcourse__category mb-10">
                            <ul class="tpcourse__price-list d-flex align-items-center">
-                              <li><a class="c-color-yellow" href="metodologia-bim">Ver Cursos</a></li>
+                              <li><a class="c-color-yellow" href="metodologia-bim"><i class="fa-solid fa-books"></i> Ver Cursos</a></li>
                               <li><a class="c-color-green" href="https://api.whatsapp.com/send?phone=984749614&text=Hola, Nececito mas informacion sobre el curso Metodologia Bim" target="_blank"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
                               
                            </ul>
@@ -137,7 +137,7 @@
                               <i class="fi fi-ss-star"></i>
                               <i class="fi fi-ss-star"></i>
                               <i class="fi fi-ss-star"></i>
-                              <i class="fi fi-rs-star"></i>
+                              <i class="fi fi-ss-star"></i>
                            </div>
                            <!-- <div class="tpcourse__pricing">
                               <h5 class="price-title">$29.99</h5>
@@ -164,7 +164,7 @@
                         </div>
                         <div class="tpcourse__category mb-10">
                            <ul class="tpcourse__price-list d-flex align-items-center">
-                              <li><a class="c-color-yellow" href="autodesk">Ver Cursos</a></li>
+                              <li><a class="c-color-yellow" href="autodesk"><i class="fa-solid fa-books"></i> Ver Cursos</a></li>
                               <li><a class="c-color-green" href="https://api.whatsapp.com/send?phone=984749614&text=Hola, Nececito mas informacion sobre el curso AutoDesk" target="_blank"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
                               
                            </ul>
@@ -181,7 +181,7 @@
                               <i class="fi fi-ss-star"></i>
                               <i class="fi fi-ss-star"></i>
                               <i class="fi fi-ss-star"></i>
-                              <i class="fi fi-rs-star"></i>
+                              <i class="fi fi-ss-star"></i>
                            </div>
                            <!-- <div class="tpcourse__pricing">
                               <h5 class="price-title">$29.99</h5>
@@ -193,7 +193,7 @@
                <div class="col-xl-4 col-lg-6 col-md-6">
                   <div class="tpcourse mb-40">
                      <div class="tpcourse__thumb p-relative w-img fix">
-                        <a href="diseno-e-interiores"><img src="assets/img/course/diseño-interiores.jpg" alt="course-thumb"></a>
+                        <a href="diseno-e-interiores"><img src="assets/img/course/diseno-interiores.jpg" alt="course-thumb"></a>
                         <div class="tpcourse__tag">
                            <a href="diseno-e-interiores"><i class="fi fi-rr-heart"></i></a>
                         </div>
@@ -208,7 +208,7 @@
                         </div>
                         <div class="tpcourse__category mb-10">
                            <ul class="tpcourse__price-list d-flex align-items-center">
-                              <li><a class="c-color-yellow" href="diseno-e-interiores">Ver Cursos</a></li>
+                              <li><a class="c-color-yellow" href="diseno-e-interiores"><i class="fa-solid fa-books"></i> Ver Cursos</a></li>
                               <li><a class="c-color-green" href="https://api.whatsapp.com/send?phone=985153508&text=Hola, Nececito mas informacion sobre el curso Diseño e interiorismo" target="_blank"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
                               
                            </ul>
@@ -225,7 +225,7 @@
                               <i class="fi fi-ss-star"></i>
                               <i class="fi fi-ss-star"></i>
                               <i class="fi fi-ss-star"></i>
-                              <i class="fi fi-rs-star"></i>
+                              <i class="fi fi-ss-star"></i>
                            </div>
                            <!-- <div class="tpcourse__pricing">
                               <h5 class="price-title">$29.99</h5>
@@ -252,7 +252,7 @@
                         </div>
                         <div class="tpcourse__category mb-10">
                            <ul class="tpcourse__price-list d-flex align-items-center">
-                              <li><a class="c-color-yellow" href="modelado-3d-visualizacion-arquitectonica">Ver Cursos</a></li>
+                              <li><a class="c-color-yellow" href="modelado-3d-visualizacion-arquitectonica"><i class="fa-solid fa-books"></i> Ver Cursos</a></li>
                               <li><a class="c-color-green"  href="https://api.whatsapp.com/send?phone=985153508&text=Hola, Nececito mas informacion sobre el curso Modelado 3D y visualización Arquitectónica" target="_blank"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
                               
                            </ul>
@@ -269,7 +269,7 @@
                               <i class="fi fi-ss-star"></i>
                               <i class="fi fi-ss-star"></i>
                               <i class="fi fi-ss-star"></i>
-                              <i class="fi fi-rs-star"></i>
+                              <i class="fi fi-ss-star"></i>
                            </div>
                            <!-- <div class="tpcourse__pricing">
                               <h5 class="price-title">$29.99</h5>
@@ -297,7 +297,7 @@
                         </div>
                         <div class="tpcourse__category mb-10">
                            <ul class="tpcourse__price-list d-flex align-items-center">
-                              <li><a class="c-color-yellow" href="arquitectura-e-ingeneria">Ver Cursos</a></li>
+                              <li><a class="c-color-yellow" href="arquitectura-e-ingeneria"><i class="fa-solid fa-books"></i> Ver Cursos</a></li>
                               <li><a class="c-color-green" href="https://api.whatsapp.com/send?phone=974856590&text=Hola, Nececito mas informacion sobre el curso Arquitectura e ingeneria" target="_blank"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
                               
                               
@@ -315,7 +315,7 @@
                               <i class="fi fi-ss-star"></i>
                               <i class="fi fi-ss-star"></i>
                               <i class="fi fi-ss-star"></i>
-                              <i class="fi fi-rs-star"></i>
+                              <i class="fi fi-ss-star"></i>
                            </div>
                            <!-- <div class="tpcourse__pricing">
                               <h5 class="price-title">$29.99</h5>

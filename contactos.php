@@ -105,7 +105,7 @@
                                     <span>Mensaje</span>
                                     <textarea placeholder="Escribe tu mensaje" name="message"></textarea>
                                  </div>
-                                 <a href="#" class="tp-btn">Enviar</a>
+                                 <a href="#" class="tp-btn"><i class="fa-solid fa-paper-plane-top"></i> Enviar</a>
                               </div>
                            </div>
                         </form>

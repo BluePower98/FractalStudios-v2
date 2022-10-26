@@ -100,7 +100,7 @@
                         <h4 class="tp-c-details-title mb-40">Instructores</h4>
                         <div class="course-instructor-details d-flex f-wrap align-items-center">
                            <div class="course-avata mr-30 mb-20">
-                              <img src="assets/img/course/c-details-ava-thumb-01.jpg" alt="avata-thumb">
+                              <img src="assets/img/course/c-5.jpg" alt="avata-thumb">
                            </div>
                            <div class="course-avatar-details mb-20">
                               <h5 class="c-avata-title mb-10">Nixon Peche Melo</h5>

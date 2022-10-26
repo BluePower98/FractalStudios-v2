@@ -94,13 +94,8 @@
             <div class="row align-items-center">
                <div class="col-xxl-7 col-xl-7 col-lg-6 col-md-12 col-12">
                   <div class="tp-about-class p-relative pb-50">
-                     <img src="assets/img/about/about-sub-bg-01.png" alt="about-img">
+                     <img src="assets/img/about/nosotros.jpg" alt="about-img">
                      <div class="tp-about-class-info tp-sub-about-info d-none d-md-block">
-                        <ul>
-                           <li><span>235K</span>Estudiantes de todo el mundo</li>
-                           <li><span>4.7<i class="fi fi-ss-star"></i></span>Estudiantes de todo el mundo</li>
-                           <li><span>3.5K</span>Cursos Profesionales Gratis</li>
-                        </ul>
                      </div>
                   </div>
                </div>
@@ -401,17 +396,17 @@ y clases en vivo</h2>
                   <div class="tp-instruc-item">
                      <div class="tp-instructor text-center p-relative mb-40">
                         <div class="tp-instructor__thumb mb-25">
-                           <img src="assets/img/bg/instruc-ab-01.jpg" alt="instructor-profile">
+                           <img src="assets/img/bg/instructor01.jpg" alt="instructor-profile">
                         </div>
                         <div class="tp-instructor__content">
-                           <span>Instructor</span>
-                           <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-5"><a href="instructor-profile.html">Brooklyn Simmons</a></h4>
-                           <div class="tp-instructor__stu-info">
+                           <span>Instructor Especializado </span><br><br><br>
+                           <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-5"><a href="instructor-profile.html">Swiv Aldo Pairazaman Amaya</a></h4>
+                           <!-- <div class="tp-instructor__stu-info">
                               <ul class="d-flex align-items-center justify-content-center">
                                  <li class="d-flex align-items-center"><img src="assets/img/icon/c-meta-01.png" alt="meta-icon"> <i>35 Classes</i></li>
                                  <li class="d-flex align-items-center"><img src="assets/img/icon/c-meta-02.png" alt="meta-icon"> <i>291+ Students</i></li>
                               </ul>
-                           </div>
+                           </div> -->
                            <div class="tp-instructor__social">
                               <ul>
                                  <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
@@ -428,17 +423,17 @@ y clases en vivo</h2>
                   <div class="tp-instruc-item">
                      <div class="tp-instructor text-center p-relative mb-40">
                         <div class="tp-instructor__thumb mb-25">
-                           <img src="assets/img/bg/instruc-ab-02.jpg" alt="instructor-profile">
+                           <img src="assets/img/bg/instructor02.jpg" alt="instructor-profile">
                         </div>
                         <div class="tp-instructor__content">
-                           <span>Instructor</span>
-                           <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-5"><a href="instructor-profile.html">Courtney Henry</a></h4>
-                           <div class="tp-instructor__stu-info">
+                           <span>AutoDesk Profecional Certificado(ACP) en uso de Autodesk Revit.</span>
+                           <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-5"><a href="instructor-profile.html">Ludwing Trinidad Santos</a></h4>
+                           <!-- <div class="tp-instructor__stu-info">
                               <ul class="d-flex align-items-center justify-content-center">
                                  <li class="d-flex align-items-center"><img src="assets/img/icon/c-meta-01.png" alt="meta-icon"> <i>35 Classes</i></li>
                                  <li class="d-flex align-items-center"><img src="assets/img/icon/c-meta-02.png" alt="meta-icon"> <i>291+ Students</i></li>
                               </ul>
-                           </div>
+                           </div> -->
                            <div class="tp-instructor__social">
                               <ul>
                                  <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
@@ -455,17 +450,71 @@ y clases en vivo</h2>
                   <div class="tp-instruc-item">
                      <div class="tp-instructor text-center p-relative mb-40">
                         <div class="tp-instructor__thumb mb-25">
-                           <img src="assets/img/bg/instruc-ab-03.jpg" alt="instructor-profile">
+                           <img src="assets/img/bg/instructor03.jpg" alt="instructor-profile">
                         </div>
                         <div class="tp-instructor__content">
-                           <span>Instructor</span>
-                           <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-5"><a href="instructor-profile.html">Cameron Williamson</a></h4>
-                           <div class="tp-instructor__stu-info">
+                           <span>Bim Manager Argentina Expert Elite</span><br><br><br>
+                           <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-5"><a href="instructor-profile.html">Juan Francisco Angel</a></h4>
+                           <!-- <div class="tp-instructor__stu-info">
                               <ul class="d-flex align-items-center justify-content-center">
                                  <li class="d-flex align-items-center"><img src="assets/img/icon/c-meta-01.png" alt="meta-icon"> <i>35 Classes</i></li>
                                  <li class="d-flex align-items-center"><img src="assets/img/icon/c-meta-02.png" alt="meta-icon"> <i>291+ Students</i></li>
                               </ul>
+                           </div> -->
+                           <div class="tp-instructor__social">
+                              <ul>
+                                 <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                 <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                                 <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+                                 <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
+                              </ul>
                            </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6 col-12">
+                  <div class="tp-instruc-item">
+                     <div class="tp-instructor text-center p-relative mb-40">
+                        <div class="tp-instructor__thumb mb-25">
+                           <img src="assets/img/bg/instructor04.jpg" alt="instructor-profile">
+                        </div>
+                        <div class="tp-instructor__content">
+                           <span>AutoDesk Profecional Certificado(ACP) en uso de Autodesk Revit.</span>
+                           <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-5"><a href="instructor-profile.html">Cesar .A Tuestas Alonso</a></h4>
+                           <!-- <div class="tp-instructor__stu-info">
+                              <ul class="d-flex align-items-center justify-content-center">
+                                 <li class="d-flex align-items-center"><img src="assets/img/icon/c-meta-01.png" alt="meta-icon"> <i>35 Classes</i></li>
+                                 <li class="d-flex align-items-center"><img src="assets/img/icon/c-meta-02.png" alt="meta-icon"> <i>291+ Students</i></li>
+                              </ul>
+                           </div> -->
+                           <div class="tp-instructor__social">
+                              <ul>
+                                 <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                 <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                                 <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+                                 <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
+                              </ul>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6 col-12">
+                  <div class="tp-instruc-item">
+                     <div class="tp-instructor text-center p-relative mb-40">
+                        <div class="tp-instructor__thumb mb-25">
+                           <img src="assets/img/bg/instructor05.jpg" alt="instructor-profile">
+                        </div>
+                        <div class="tp-instructor__content">
+                           <span>Instructor</span><br><br><br>
+                           <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-5"><a href="instructor-profile.html">Nixon Peche Melo</a></h4>
+                           <!-- <div class="tp-instructor__stu-info">
+                              <ul class="d-flex align-items-center justify-content-center">
+                                 <li class="d-flex align-items-center"><img src="assets/img/icon/c-meta-01.png" alt="meta-icon"> <i>35 Classes</i></li>
+                                 <li class="d-flex align-items-center"><img src="assets/img/icon/c-meta-02.png" alt="meta-icon"> <i>291+ Students</i></li>
+                              </ul>
+                           </div> -->
                            <div class="tp-instructor__social">
                               <ul>
                                  <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>

@@ -129,7 +129,7 @@
                            <i class="fi fi-rr-calendar"></i>
                         </div>
                         <div class="tpfea__text">
-                           <h5 class="tpfea__title mb-5">Obtener certificado</h5>
+                           <h5 class="tpfea__title mb-5">Acceso de por vida</h5>
                         </div>
                      </div>
                   </div>
@@ -168,7 +168,7 @@
                         </div>
                         <div class="tpcourse__category mb-10">
                            <ul class="tpcourse__price-list d-flex align-items-center">
-                              <li><a class="c-color-yellow" href="autocard-2d-3d">Mas detalles</a></li>
+                              <li><a class="c-color-yellow" href="autocard-2d-3d"><i class="fa-solid fa-square-info"></i> Mas detalles</a></li>
                               <li><a class="c-color-green" href="https://api.whatsapp.com/send?phone=984749614&text=Hola, Nececito mas informacion sobre el curso Autocard 2D + 3D" target="_blank"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
                               
                            </ul>
@@ -185,7 +185,7 @@
                               <i class="fi fi-ss-star"></i>
                               <i class="fi fi-ss-star"></i>
                               <i class="fi fi-ss-star"></i>
-                              <i class="fi fi-rs-star"></i>
+                              <i class="fi fi-ss-star"></i>
                            </div>
                            <!-- <div class="tpcourse__pricing">
                               <h5 class="price-title">$29.99</h5>
@@ -212,7 +212,7 @@
                         </div>
                         <div class="tpcourse__category mb-10">
                            <ul class="tpcourse__price-list d-flex align-items-center">
-                           <li><a class="c-color-yellow" href="civil-3d">Mas detalles</a></li>
+                           <li><a class="c-color-yellow" href="civil-3d"><i class="fa-solid fa-square-info"></i> Mas detalles</a></li>
                               <li><a class="c-color-green" href="https://api.whatsapp.com/send?phone=984749614&text=Hola, Nececito mas informacion sobre el curso Civil 3D" target="_blank"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
                               
                            </ul>
@@ -229,7 +229,7 @@
                               <i class="fi fi-ss-star"></i>
                               <i class="fi fi-ss-star"></i>
                               <i class="fi fi-ss-star"></i>
-                              <i class="fi fi-rs-star"></i>
+                              <i class="fi fi-ss-star"></i>
                            </div>
                            <!-- <div class="tpcourse__pricing">
                               <h5 class="price-title">$29.99</h5>

@@ -14,7 +14,7 @@
                         <div class="header-cat-menu ml-40">
                            <nav>
                               <ul>
-                                 <li><a href="404.php"> Certificaciones</a>
+                                 <li><a href="404.php"><i class="fa-solid fa-file-certificate"></i> Certificaciones</a>
                                     
                                  </li>
                               </ul>
@@ -62,9 +62,9 @@
                   <div class="col-xxl-3 col-xl-3 col-lg-6 d-flex align-items-center justify-content-end">
                      <div class="header-meta-green">
                         <ul>
-                           <li><a href="#"><i class="fi fi-rr-user"></i></a></li>
+                           <li><a href="http://localhost:4200/login" target="_black"><i class="fi fi-rr-user"></i></a></li>
                            <!-- <li><a href="cart.html"><i class="fi fi-rr-shopping-bag"></i></a></li> -->
-                           <li><a href="#" class="tp-menu-toggle d-xl-none"><i class="icon_ul"></i></a></li>
+                           <li><a href="http://localhost:4200/login" target="_black" class="tp-menu-toggle d-xl-none"><i class="icon_ul"></i></a></li>
                         </ul>
                      </div>
                   </div>

@@ -4,28 +4,20 @@
 <?php include("assets/shared/head.php"); ?>
 
 <body>
-   <!--[if lte IE 9]>
-      <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-      <![endif]-->
 
 
-   <!-- pre loader area start -->
    <div id="loading">
       <div id="loading-center">
          <div id="loading-center-absolute">
-            <!-- loading content here -->
          </div>
       </div>
    </div>
-   <!-- pre loader area end -->
 
-   <!-- back to top start -->
    <div class="progress-wrap">
       <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
          <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
       </svg>
    </div>
-   <!-- back to top end -->
 
 <?php include("assets/shared/header.php"); ?>
 
@@ -43,8 +35,8 @@
                            <span class="slider-text mb-15"></span>
                            <h2 class="slider-title mb-65"></h2>
                            <div class="slider-btn">
-                              <a class="tp-btn mr-5" href="courses">Explorar Cursos</a>
-                              <a class="tp-s-border-btn" href="contactos">Contactar</a>
+                              <a class="tp-btn mr-5" href="courses"><i class="fa-solid fa-books"></i> Explorar Cursos</a>
+                              <a class="tp-s-border-btn" href="contactos"><i class="fa-regular fa-message-middle"></i> Contactar</a>
                            </div>
                         </div>
                      </div>
@@ -94,7 +86,7 @@
       <!-- slider-area-end -->
 
       <!-- brand-area -->
-      <section class="brand-area pt-110">
+      <!-- <section class="brand-area pt-110">
          <div class="container">
             <div class="row">
                <div class="col-lg-12">
@@ -132,22 +124,18 @@
             </div>
          </div>
       </section>
-      <!-- brand-area-end -->
+
       <br>
-      <hr>
+      <hr> -->
       
+
       <section class="tp-about-area pb-70">
          <div class="container">
             <div class="row align-items-center">
                <div class="col-xxl-7 col-xl-7 col-lg-6 col-md-12 col-12">
                   <div class="tp-about-class p-relative pb-50">
-                     <img src="assets/img/about/about-sub-bg-01.png" alt="about-img">
+                     <img src="assets/img/about/nosotros.jpg" alt="about-img">
                      <div class="tp-about-class-info tp-sub-about-info d-none d-md-block">
-                        <ul>
-                           <li><span>235K</span>Estudiantes de todo el mundo</li>
-                           <li><span>4.7<i class="fi fi-ss-star"></i></span>Estudiantes de todo el mundo</li>
-                           <li><span>3.5K</span>Cursos Profesionales Gratis</li>
-                        </ul>
                      </div>
                   </div>
                </div>
@@ -173,7 +161,7 @@
                         </ul>
                      </div>
                      <div class="tp-about-btn-3">
-                        <a href="404" class="tp-btn">Leer Mas</a>
+                        <a href="nosotros" class="tp-btn">Leer Mas</a>
                      </div>
                   </div>
                </div>
@@ -213,8 +201,8 @@
                         </div>
                         <div class="tpcourse__category mb-10">
                            <ul class="tpcourse__price-list d-flex align-items-center">
-                              <li><a class="c-color-yellow" href="metodologia-bim">Ver Cursos</a></li>
-                              <li><a class="c-color-green" href="course-details.html"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
+                              <li><a class="c-color-yellow" href="metodologia-bim"><i class="fa-solid fa-books"></i> Ver Cursos</a></li>
+                              <li><a class="c-color-green" href="https://api.whatsapp.com/send?phone=984749614&text=Hola, Nececito mas informacion sobre el curso Metodologia Bim" target="_blank"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
                               
                            </ul>
                         </div>
@@ -230,7 +218,7 @@
                               <i class="fi fi-ss-star"></i>
                               <i class="fi fi-ss-star"></i>
                               <i class="fi fi-ss-star"></i>
-                              <i class="fi fi-rs-star"></i>
+                              <i class="fi fi-ss-star"></i>
                            </div>
                            <!-- <div class="tpcourse__pricing">
                               <h5 class="price-title">$29.99</h5>
@@ -257,8 +245,8 @@
                         </div>
                         <div class="tpcourse__category mb-10">
                            <ul class="tpcourse__price-list d-flex align-items-center">
-                              <li><a class="c-color-yellow" href="autodesk">Ver Cursos</a></li>
-                              <li><a class="c-color-green" href="course-details.html"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
+                              <li><a class="c-color-yellow" href="autodesk"><i class="fa-solid fa-books"></i> Ver Cursos</a></li>
+                              <li><a class="c-color-green" href="https://api.whatsapp.com/send?phone=984749614&text=Hola, Nececito mas informacion sobre el curso AutoDesk" target="_blank"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
                               
                            </ul>
                         </div>
@@ -274,7 +262,7 @@
                               <i class="fi fi-ss-star"></i>
                               <i class="fi fi-ss-star"></i>
                               <i class="fi fi-ss-star"></i>
-                              <i class="fi fi-rs-star"></i>
+                              <i class="fi fi-ss-star"></i>
                            </div>
                            <!-- <div class="tpcourse__pricing">
                               <h5 class="price-title">$29.99</h5>
@@ -286,9 +274,9 @@
                <div class="col-xl-4 col-lg-6 col-md-6">
                   <div class="tpcourse mb-40">
                      <div class="tpcourse__thumb p-relative w-img fix">
-                        <a href="diseño-e-interiores"><img src="assets/img/course/diseño-interiores.jpg" alt="course-thumb"></a>
+                        <a href="diseno-e-interiores"><img src="assets/img/course/diseno-interiores.jpg" alt="course-thumb"></a>
                         <div class="tpcourse__tag">
-                           <a href="diseño-e-interiores"><i class="fi fi-rr-heart"></i></a>
+                           <a href="diseno-e-interiores"><i class="fi fi-rr-heart"></i></a>
                         </div>
                         <div class="tpcourse__img-icon">
                            <img src="assets/img/icon/fracta-icon.png" alt="course-avata">
@@ -297,12 +285,12 @@
                      <div class="tpcourse__content-2">
 
                         <div class="tpcourse__ava-title mb-15">
-                           <h4 class="tpcourse__title tp-cours-title-color"><a href="diseño-e-interiores">Diseño e interiorismo</a></h4>
+                           <h4 class="tpcourse__title tp-cours-title-color"><a href="diseno-e-interiores">Diseño e interiorismo</a></h4>
                         </div>
                         <div class="tpcourse__category mb-10">
                            <ul class="tpcourse__price-list d-flex align-items-center">
-                              <li><a class="c-color-yellow" href="diseño-e-interiores">Ver Cursos</a></li>
-                              <li><a class="c-color-green" href="course-details.html"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
+                              <li><a class="c-color-yellow" href="diseno-e-interiores"><i class="fa-solid fa-books"></i> Ver Cursos</a></li>
+                              <li><a class="c-color-green" href="https://api.whatsapp.com/send?phone=985153508&text=Hola, Nececito mas informacion sobre el curso Diseño e interiorismo" target="_blank"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
                               
                            </ul>
                         </div>
@@ -318,7 +306,7 @@
                               <i class="fi fi-ss-star"></i>
                               <i class="fi fi-ss-star"></i>
                               <i class="fi fi-ss-star"></i>
-                              <i class="fi fi-rs-star"></i>
+                              <i class="fi fi-ss-star"></i>
                            </div>
                            <!-- <div class="tpcourse__pricing">
                               <h5 class="price-title">$29.99</h5>
@@ -345,8 +333,8 @@
                         </div>
                         <div class="tpcourse__category mb-10">
                            <ul class="tpcourse__price-list d-flex align-items-center">
-                              <li><a class="c-color-yellow" href="modelado-3d-visualizacion-arquitectonica">Ver Cursos</a></li>
-                              <li><a class="c-color-green" href="course-details.html"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
+                              <li><a class="c-color-yellow" href="modelado-3d-visualizacion-arquitectonica"><i class="fa-solid fa-books"></i> Ver Cursos</a></li>
+                              <li><a class="c-color-green"  href="https://api.whatsapp.com/send?phone=985153508&text=Hola, Nececito mas informacion sobre el curso Modelado 3D y visualización Arquitectónica" target="_blank"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
                               
                            </ul>
                         </div>
@@ -362,7 +350,7 @@
                               <i class="fi fi-ss-star"></i>
                               <i class="fi fi-ss-star"></i>
                               <i class="fi fi-ss-star"></i>
-                              <i class="fi fi-rs-star"></i>
+                              <i class="fi fi-ss-star"></i>
                            </div>
                            <!-- <div class="tpcourse__pricing">
                               <h5 class="price-title">$29.99</h5>
@@ -390,8 +378,8 @@
                         </div>
                         <div class="tpcourse__category mb-10">
                            <ul class="tpcourse__price-list d-flex align-items-center">
-                              <li><a class="c-color-yellow" href="arquitectura-e-ingeneria">Ver Cursos</a></li>
-                              <li><a class="c-color-green" href="course-details.html"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
+                              <li><a class="c-color-yellow" href="arquitectura-e-ingeneria"><i class="fa-solid fa-books"></i> Ver Cursos</a></li>
+                              <li><a class="c-color-green" href="https://api.whatsapp.com/send?phone=974856590&text=Hola, Nececito mas informacion sobre el curso Arquitectura e ingeneria" target="_blank"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
                               
                               
                            </ul>
@@ -408,7 +396,7 @@
                               <i class="fi fi-ss-star"></i>
                               <i class="fi fi-ss-star"></i>
                               <i class="fi fi-ss-star"></i>
-                              <i class="fi fi-rs-star"></i>
+                              <i class="fi fi-ss-star"></i>
                            </div>
                            <!-- <div class="tpcourse__pricing">
                               <h5 class="price-title">$29.99</h5>
@@ -472,13 +460,13 @@
                      <div class="row">
                         <div class="col-xl-4 tpcourse-thumb-w">
                            <div class="tpcourse__thumb p-relative w-img fix">
-                              <a href="course-details.html"><img src="assets/img/course/c-1.jpg" alt="course-thumb"></a>
+                              <a href="especialista-modelador-bim"><img src="assets/img/course/c-1.jpg" alt="course-thumb"></a>
                            </div>
                         </div>
                         <div class="col-xl-8 tpcourse-thumb-text">
                            <div class="tp-wrap-course__content ml-5">
                               <div class="tp-wrap-course__heading">
-                                 <h4 class="tp-wrap-course__title mb-20"><a href="course-details.html">Especialista Modelador Bim</a></h4>
+                                 <h4 class="tp-wrap-course__title mb-20"><a href="especialista-modelador-bim">Especialista Modelador Bim</a></h4>
                               </div>
                               <div class="tpcourse__meta tp-course-line pb-20 mb-25">
                                  <ul class="d-flex align-items-center">
@@ -488,8 +476,8 @@
                               </div>
                               <div class="tpcourse__category c-price-list d-flex align-items-center justify-content-between">
                                  <ul class="tpcourse__price-list  d-flex align-items-center">
-                                 <li><a class="c-color-yellow" href="autodesk">Mas Detalles</a></li>
-                              <li><a class="c-color-green" href="course-details.html"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
+                                 <li><a class="c-color-yellow" href="especialista-modelador-bim"><i class="fa-solid fa-square-info"></i> Mas detalles</a></li>
+                              <li><a class="c-color-green" href="https://api.whatsapp.com/send?phone=984749614&text=Hola, Nececito mas informacion sobre el curso Especialista Modelador Bim" target="_blank"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
                                  </ul>
                               </div>
                            </div>
@@ -502,13 +490,13 @@
                      <div class="row">
                         <div class="col-xl-4 tpcourse-thumb-w">
                            <div class="tpcourse__thumb p-relative w-img fix">
-                              <a href="course-details.html"><img src="assets/img/course/c-2.jpg" alt="course-thumb"></a>
+                              <a href="especialista_bim_mep"><img src="assets/img/course/c-2.jpg" alt="course-thumb"></a>
                            </div>
                         </div>
                         <div class="col-xl-8 tpcourse-thumb-text">
                            <div class="tp-wrap-course__content ml-5">
                               <div class="tp-wrap-course__heading">
-                                 <h4 class="tp-wrap-course__title mb-20"><a href="course-details.html">Especialista Bim Mep</a></h4>
+                                 <h4 class="tp-wrap-course__title mb-20"><a href="especialista_bim_mep">Especialista Bim Mep</a></h4>
                               </div>
                               <div class="tpcourse__meta tp-course-line pb-20 mb-25">
                                  <ul class="d-flex align-items-center">
@@ -518,8 +506,8 @@
                               </div>
                               <div class="tpcourse__category c-price-list d-flex align-items-center justify-content-between">
                                  <ul class="tpcourse__price-list  d-flex align-items-center">
-                                 <li><a class="c-color-yellow" href="autodesk">Mas Detalles</a></li>
-                              <li><a class="c-color-green" href="course-details.html"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
+                                 <li><a class="c-color-yellow" href="especialista_bim_mep"><i class="fa-solid fa-square-info"></i> Mas detalles</a></li>
+                              <li><a class="c-color-green" href="https://api.whatsapp.com/send?phone=984749614&text=Hola, Nececito mas informacion sobre el curso Especialista Bim Mep" target="_blank"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
                                  </ul>
                               </div>
                            </div>
@@ -532,13 +520,13 @@
                      <div class="row">
                         <div class="col-xl-4 tpcourse-thumb-w">
                            <div class="tpcourse__thumb p-relative w-img fix">
-                              <a href="course-details.html"><img src="assets/img/course/c-3.jpg" alt="course-thumb"></a>
+                              <a href="autocard-2d-3d"><img src="assets/img/course/c-3.jpg" alt="course-thumb"></a>
                            </div>
                         </div>
                         <div class="col-xl-8 tpcourse-thumb-text">
                            <div class="tp-wrap-course__content ml-5">
                               <div class="tp-wrap-course__heading">
-                                 <h4 class="tp-wrap-course__title mb-20"><a href="course-details.html">Autocard 2D + 3D</a></h4>
+                                 <h4 class="tp-wrap-course__title mb-20"><a href="autocard-2d-3d">Autocard 2D + 3D</a></h4>
                               </div>
                               <div class="tpcourse__meta tp-course-line pb-20 mb-25">
                                  <ul class="d-flex align-items-center">
@@ -548,8 +536,8 @@
                               </div>
                               <div class="tpcourse__category c-price-list d-flex align-items-center justify-content-between">
                                  <ul class="tpcourse__price-list  d-flex align-items-center">
-                                 <li><a class="c-color-yellow" href="autodesk">Mas Detalles</a></li>
-                              <li><a class="c-color-green" href="course-details.html"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
+                                 <li><a class="c-color-yellow" href="autocard-2d-3d"><i class="fa-solid fa-square-info"></i> Mas detalles</a></li>
+                              <li><a class="c-color-green" href="https://api.whatsapp.com/send?phone=984749614&text=Hola, Nececito mas informacion sobre el curso Autocard 2D + 3D" target="_blank"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
                                  </ul>
                               </div>
                            </div>
@@ -562,13 +550,13 @@
                      <div class="row">
                         <div class="col-xl-4 tpcourse-thumb-w">
                            <div class="tpcourse__thumb p-relative w-img fix">
-                              <a href="course-details.html"><img src="assets/img/course/c-4.jpg" alt="course-thumb"></a>
+                              <a href="diseno-de-interiores"><img src="assets/img/course/c-4.jpg" alt="course-thumb"></a>
                            </div>
                         </div>
                         <div class="col-xl-8 tpcourse-thumb-text">
                            <div class="tp-wrap-course__content ml-5">
                               <div class="tp-wrap-course__heading">
-                                 <h4 class="tp-wrap-course__title mb-20"><a href="course-details.html">Diseño de Interiores</a></h4>
+                                 <h4 class="tp-wrap-course__title mb-20"><a href="diseno-de-interiores">Diseño de Interiores</a></h4>
                               </div>
                               <div class="tpcourse__meta tp-course-line pb-20 mb-25">
                                  <ul class="d-flex align-items-center">
@@ -578,8 +566,8 @@
                               </div>
                               <div class="tpcourse__category c-price-list d-flex align-items-center justify-content-between">
                                  <ul class="tpcourse__price-list  d-flex align-items-center">
-                                 <li><a class="c-color-yellow" href="autodesk">Mas Detalles</a></li>
-                              <li><a class="c-color-green" href="course-details.html"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
+                                 <li><a class="c-color-yellow" href="diseno-de-interiores"><i class="fa-solid fa-square-info"></i> Mas detalles</a></li>
+                              <li><a class="c-color-green" href="https://api.whatsapp.com/send?phone=985153508&text=Hola, Nececito mas informacion sobre el curso Diseño de Interiores" target="_blank"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
                                  </ul>
                               </div>
                            </div>
@@ -592,13 +580,13 @@
                      <div class="row">
                         <div class="col-xl-4 tpcourse-thumb-w">
                            <div class="tpcourse__thumb p-relative w-img fix">
-                              <a href="course-details.html"><img src="assets/img/course/5-c.jpg" alt="course-thumb"></a>
+                              <a href="sketchup-vray-photoshop"><img src="assets/img/course/5-c.jpg" alt="course-thumb"></a>
                            </div>
                         </div>
                         <div class="col-xl-8 tpcourse-thumb-text">
                            <div class="tp-wrap-course__content ml-5">
                               <div class="tp-wrap-course__heading">
-                                 <h4 class="tp-wrap-course__title mb-20"><a href="course-details.html">Sketchup + vray + Photoshop</a></h4>
+                                 <h4 class="tp-wrap-course__title mb-20"><a href="sketchup-vray-photoshop">Sketchup + vray + Photoshop</a></h4>
                               </div>
                               <div class="tpcourse__meta tp-course-line pb-20 mb-25">
                                  <ul class="d-flex align-items-center">
@@ -608,8 +596,8 @@
                               </div>
                               <div class="tpcourse__category c-price-list d-flex align-items-center justify-content-between">
                                  <ul class="tpcourse__price-list  d-flex align-items-center">
-                                 <li><a class="c-color-yellow" href="autodesk">Mas Detalles</a></li>
-                              <li><a class="c-color-green" href="course-details.html"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
+                                 <li><a class="c-color-yellow" href="sketchup-vray-photoshop"><i class="fa-solid fa-square-info"></i> Mas detalles</a></li>
+                              <li><a class="c-color-green" href="https://api.whatsapp.com/send?phone=985153508&text=Hola, Nececito mas informacion sobre el curso Sketchup + vray + Photoshop" target="_blank"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
                                  </ul>
                               </div>
                            </div>
@@ -622,13 +610,13 @@
                      <div class="row">
                         <div class="col-xl-4 tpcourse-thumb-w">
                            <div class="tpcourse__thumb p-relative w-img fix">
-                              <a href="course-details.html"><img src="assets/img/course/7-c.jpg" alt="course-thumb"></a>
+                              <a href="metodos-costos-produccion-programacion"><img src="assets/img/course/7-c.jpg" alt="course-thumb"></a>
                            </div>
                         </div>
                         <div class="col-xl-8 tpcourse-thumb-text">
                            <div class="tp-wrap-course__content ml-5">
                               <div class="tp-wrap-course__heading">
-                                 <h4 class="tp-wrap-course__title mb-20"><a href="course-details.html">Metodos + Costos + Producción + Programación</a></h4>
+                                 <h4 class="tp-wrap-course__title mb-20"><a href="metodos-costos-produccion-programacion">Metodos + Costos + Producción + Programación</a></h4>
                               </div>
                               <div class="tpcourse__meta tp-course-line pb-20 mb-25">
                                  <ul class="d-flex align-items-center">
@@ -638,8 +626,8 @@
                               </div>
                               <div class="tpcourse__category c-price-list d-flex align-items-center justify-content-between">
                                  <ul class="tpcourse__price-list  d-flex align-items-center">
-                                 <li><a class="c-color-yellow" href="autodesk">Mas Detalles</a></li>
-                              <li><a class="c-color-green" href="course-details.html"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
+                                 <li><a class="c-color-yellow" href="metodos-costos-produccion-programacion"><i class="fa-solid fa-square-info"></i> Mas detalles</a></li>
+                              <li><a class="c-color-green" href="https://api.whatsapp.com/send?phone=974856590&text=Hola, Nececito mas informacion sobre el curso Metodos + Costos + Producción + Programación" target="_blank"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
                                  </ul>
                               </div>
                            </div>
@@ -653,146 +641,152 @@
       <!-- course-area-end -->     
       
       <!-- video-area -->
-      <section class="video-area pt-90 pb-120">
+      <section class="instructor-area pt-120 pb-80">
          <div class="container">
-            <div class="row text-center">
-               <div class="col-lg-12 col-md-12">
+            <div class="row">
+               <div class="col-xl-6 col-lg-8 col-md-7 col-12">
                   <div class="section-title mb-65">
-                     <span class="tp-sub-title-box mb-15">Clases en vivo</span>
-                     <h2 class="tp-section-title mb-20">Video de calidad HD, audio
-y clases en vivo</h2>
-                  </div>
-               </div>
-            </div>
-            <div class="row">
-               <div class="col-md-12">
-                  <div class="video-bg p-relative text-center">
-                     <img src="assets/img/bg/video-bg-01.jpg" alt="video-bg">
-                     <div class="video-text">
-                        <i>Live<span>01:30:08</span></i>
-                     </div>
-                     <div class="video-shape">
-                        <img src="assets/img/about/shape-2-img-2.png" alt="video-shape">
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </section>
-
-      <!-- instructor-area -->
-      <section class="instructor-area pt-110 pb-110">
-         <div class="container">
-            <div class="row">
-               <div class="col-lg-12">
-                  <div class="section-title mb-35 text-center">
                      <span class="tp-sub-title-box mb-15">Instructores</span>
                   </div>
                </div>
             </div>
-            <div class="intruc-active-two mb-15 tp-slide-space">
-               <div class="tp-instruc-item">
-                  <div class="tp-instructor text-center p-relative mb-30">
-                     <div class="tp-instructor__thumb mb-25">
-                        <img src="assets/img/bg/instructor-bg-01.jpg" alt="instructor-profile">
-                     </div>
-                     <div class="tp-instructor__content">
-                        <span>Instructor</span>
-                        <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-5"><a href="instructor-profile.html">Brooklyn Simmons</a></h4>
-                        <div class="tp-instructor__stu-info">
-                           <ul class="d-flex align-items-center justify-content-center">
-                              <li class="d-flex align-items-center"><img src="assets/img/icon/c-meta-01.png" alt="meta-icon"> <i>35 Classes</i></li>
-                              <li class="d-flex align-items-center"><img src="assets/img/icon/c-meta-02.png" alt="meta-icon"> <i>291+ Students</i></li>
-                           </ul>
+            <div class="row">
+               <div class="col-lg-4 col-md-6 col-12">
+                  <div class="tp-instruc-item">
+                     <div class="tp-instructor text-center p-relative mb-40">
+                        <div class="tp-instructor__thumb mb-25">
+                           <img src="assets/img/bg/instructor01.jpg" alt="instructor-profile">
                         </div>
-                        <div class="tp-instructor__social">
-                           <ul>
-                              <li><a href="instructor-profile.html"><i class="fa-brands fa-facebook-f"></i></a></li>
-                              <li><a href="instructor-profile.html"><i class="fa-brands fa-twitter"></i></a></li>
-                              <li><a href="instructor-profile.html"><i class="fa-brands fa-instagram"></i></a></li>
-                              <li><a href="instructor-profile.html"><i class="fa-brands fa-youtube"></i></a></li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="tp-instruc-item">
-                  <div class="tp-instructor text-center p-relative mb-30">
-                     <div class="tp-instructor__thumb mb-25">
-                        <img src="assets/img/bg/instructor-bg-02.jpg" alt="instructor-profile">
-                     </div>
-                     <div class="tp-instructor__content">
-                        <span>Instructor</span>
-                        <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-5"><a href="instructor-profile.html">Courtney Henry</a></h4>
-                        <div class="tp-instructor__stu-info">
-                           <ul class="d-flex align-items-center justify-content-center">
-                              <li class="d-flex align-items-center"><img src="assets/img/icon/c-meta-01.png" alt="meta-icon"> <i>35 Classes</i></li>
-                              <li class="d-flex align-items-center"><img src="assets/img/icon/c-meta-02.png" alt="meta-icon"> <i>291+ Students</i></li>
-                           </ul>
-                        </div>
-                        <div class="tp-instructor__social">
-                           <ul>
-                              <li><a href="instructor-profile.html"><i class="fa-brands fa-facebook-f"></i></a></li>
-                              <li><a href="instructor-profile.html"><i class="fa-brands fa-twitter"></i></a></li>
-                              <li><a href="instructor-profile.html"><i class="fa-brands fa-instagram"></i></a></li>
-                              <li><a href="instructor-profile.html"><i class="fa-brands fa-youtube"></i></a></li>
-                           </ul>
+                        <div class="tp-instructor__content">
+                           <span>Instructor Especializado </span><br><br><br>
+                           <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-5"><a href="instructor-profile.html">Swiv Aldo Pairazaman Amaya</a></h4>
+                           <!-- <div class="tp-instructor__stu-info">
+                              <ul class="d-flex align-items-center justify-content-center">
+                                 <li class="d-flex align-items-center"><img src="assets/img/icon/c-meta-01.png" alt="meta-icon"> <i>35 Classes</i></li>
+                                 <li class="d-flex align-items-center"><img src="assets/img/icon/c-meta-02.png" alt="meta-icon"> <i>291+ Students</i></li>
+                              </ul>
+                           </div> -->
+                           <div class="tp-instructor__social">
+                              <ul>
+                                 <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                 <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                                 <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+                                 <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
+                              </ul>
+                           </div>
                         </div>
                      </div>
                   </div>
                </div>
-               <div class="tp-instruc-item">
-                  <div class="tp-instructor text-center p-relative mb-30">
-                     <div class="tp-instructor__thumb mb-25">
-                        <img src="assets/img/bg/instructor-bg-03.jpg" alt="instructor-profile">
-                     </div>
-                     <div class="tp-instructor__content">
-                        <span>Instructor</span>
-                        <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-5"><a href="instructor-profile.html">Cameron Williamson</a></h4>
-                        <div class="tp-instructor__stu-info">
-                           <ul class="d-flex align-items-center justify-content-center">
-                              <li class="d-flex align-items-center"><img src="assets/img/icon/c-meta-01.png" alt="meta-icon"> <i>35 Classes</i></li>
-                              <li class="d-flex align-items-center"><img src="assets/img/icon/c-meta-02.png" alt="meta-icon"> <i>291+ Students</i></li>
-                           </ul>
+               <div class="col-lg-4 col-md-6 col-12">
+                  <div class="tp-instruc-item">
+                     <div class="tp-instructor text-center p-relative mb-40">
+                        <div class="tp-instructor__thumb mb-25">
+                           <img src="assets/img/bg/instructor02.jpg" alt="instructor-profile">
                         </div>
-                        <div class="tp-instructor__social">
-                           <ul>
-                              <li><a href="instructor-profile.html"><i class="fa-brands fa-facebook-f"></i></a></li>
-                              <li><a href="instructor-profile.html"><i class="fa-brands fa-twitter"></i></a></li>
-                              <li><a href="instructor-profile.html"><i class="fa-brands fa-instagram"></i></a></li>
-                              <li><a href="instructor-profile.html"><i class="fa-brands fa-youtube"></i></a></li>
-                           </ul>
+                        <div class="tp-instructor__content">
+                           <span>AutoDesk Profecional Certificado(ACP) en uso de Autodesk Revit.</span>
+                           <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-5"><a href="instructor-profile.html">Ludwing Trinidad Santos</a></h4>
+                           <!-- <div class="tp-instructor__stu-info">
+                              <ul class="d-flex align-items-center justify-content-center">
+                                 <li class="d-flex align-items-center"><img src="assets/img/icon/c-meta-01.png" alt="meta-icon"> <i>35 Classes</i></li>
+                                 <li class="d-flex align-items-center"><img src="assets/img/icon/c-meta-02.png" alt="meta-icon"> <i>291+ Students</i></li>
+                              </ul>
+                           </div> -->
+                           <div class="tp-instructor__social">
+                              <ul>
+                                 <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                 <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                                 <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+                                 <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
+                              </ul>
+                           </div>
                         </div>
                      </div>
                   </div>
                </div>
-               <div class="tp-instruc-item">
-                  <div class="tp-instructor text-center p-relative mb-30">
-                     <div class="tp-instructor__thumb mb-25">
-                        <img src="assets/img/bg/instructor-bg-04.jpg" alt="instructor-profile">
-                     </div>
-                     <div class="tp-instructor__content">
-                        <span>Instructor</span>
-                        <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-5"><a href="instructor-profile.html">Brooklyn Simmons</a></h4>
-                        <div class="tp-instructor__stu-info">
-                           <ul class="d-flex align-items-center justify-content-center">
-                              <li class="d-flex align-items-center"><img src="assets/img/icon/c-meta-01.png" alt="meta-icon"> <i>35 Classes</i></li>
-                              <li class="d-flex align-items-center"><img src="assets/img/icon/c-meta-02.png" alt="meta-icon"> <i>291+ Students</i></li>
-                           </ul>
+               <div class="col-lg-4 col-md-6 col-12">
+                  <div class="tp-instruc-item">
+                     <div class="tp-instructor text-center p-relative mb-40">
+                        <div class="tp-instructor__thumb mb-25">
+                           <img src="assets/img/bg/instructor03.jpg" alt="instructor-profile">
                         </div>
-                        <div class="tp-instructor__social">
-                           <ul>
-                              <li><a href="instructor-profile.html"><i class="fa-brands fa-facebook-f"></i></a></li>
-                              <li><a href="instructor-profile.html"><i class="fa-brands fa-twitter"></i></a></li>
-                              <li><a href="instructor-profile.html"><i class="fa-brands fa-instagram"></i></a></li>
-                              <li><a href="instructor-profile.html"><i class="fa-brands fa-youtube"></i></a></li>
-                           </ul>
+                        <div class="tp-instructor__content">
+                           <span>Bim Manager Argentina Expert Elite</span><br><br><br>
+                           <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-5"><a href="instructor-profile.html">Juan Francisco Angel</a></h4>
+                           <!-- <div class="tp-instructor__stu-info">
+                              <ul class="d-flex align-items-center justify-content-center">
+                                 <li class="d-flex align-items-center"><img src="assets/img/icon/c-meta-01.png" alt="meta-icon"> <i>35 Classes</i></li>
+                                 <li class="d-flex align-items-center"><img src="assets/img/icon/c-meta-02.png" alt="meta-icon"> <i>291+ Students</i></li>
+                              </ul>
+                           </div> -->
+                           <div class="tp-instructor__social">
+                              <ul>
+                                 <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                 <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                                 <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+                                 <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
+                              </ul>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6 col-12">
+                  <div class="tp-instruc-item">
+                     <div class="tp-instructor text-center p-relative mb-40">
+                        <div class="tp-instructor__thumb mb-25">
+                           <img src="assets/img/bg/instructor04.jpg" alt="instructor-profile">
+                        </div>
+                        <div class="tp-instructor__content">
+                           <span>AutoDesk Profecional Certificado(ACP) en uso de Autodesk Revit.</span>
+                           <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-5"><a href="instructor-profile.html">Cesar .A Tuestas Alonso</a></h4>
+                           <!-- <div class="tp-instructor__stu-info">
+                              <ul class="d-flex align-items-center justify-content-center">
+                                 <li class="d-flex align-items-center"><img src="assets/img/icon/c-meta-01.png" alt="meta-icon"> <i>35 Classes</i></li>
+                                 <li class="d-flex align-items-center"><img src="assets/img/icon/c-meta-02.png" alt="meta-icon"> <i>291+ Students</i></li>
+                              </ul>
+                           </div> -->
+                           <div class="tp-instructor__social">
+                              <ul>
+                                 <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                 <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                                 <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+                                 <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
+                              </ul>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6 col-12">
+                  <div class="tp-instruc-item">
+                     <div class="tp-instructor text-center p-relative mb-40">
+                        <div class="tp-instructor__thumb mb-25">
+                           <img src="assets/img/bg/instructor05.jpg" alt="instructor-profile">
+                        </div>
+                        <div class="tp-instructor__content">
+                           <span>Instructor</span><br><br><br>
+                           <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-5"><a href="instructor-profile.html">Nixon Peche Melo</a></h4>
+                           <!-- <div class="tp-instructor__stu-info">
+                              <ul class="d-flex align-items-center justify-content-center">
+                                 <li class="d-flex align-items-center"><img src="assets/img/icon/c-meta-01.png" alt="meta-icon"> <i>35 Classes</i></li>
+                                 <li class="d-flex align-items-center"><img src="assets/img/icon/c-meta-02.png" alt="meta-icon"> <i>291+ Students</i></li>
+                              </ul>
+                           </div> -->
+                           <div class="tp-instructor__social">
+                              <ul>
+                                 <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                 <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                                 <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+                                 <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
+                              </ul>
+                           </div>
                         </div>
                      </div>
                   </div>
                </div>
             </div>
-
          </div>
       </section>
       <!-- instructor-area-enfd -->

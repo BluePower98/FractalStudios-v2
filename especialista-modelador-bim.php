@@ -1,13 +1,12 @@
 <!doctype html>
 <html class="no-js" lang="zxx">
 
-<?php include("assets/shared/head.php");?>
+<?php include("assets/shared/head.php"); ?>
 
 <body>
    <div id="loading">
       <div id="loading-center">
          <div id="loading-center-absolute">
-            <!-- loading content here -->
          </div>
       </div>
    </div>
@@ -17,7 +16,7 @@
          <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
       </svg>
    </div>
-   <!-- back to top end -->
+
    <?php include("assets/shared/header.php"); ?>
 
 
@@ -33,9 +32,9 @@
                      <div class="breadcrumb__list">
                         <span><a href="index.html">Inicio</a></span>
                         <span class="dvdr"><i class="fa-regular fa-angle-right"></i></span>
-                        <span><a href="course-list.html">Cursos</a></span>
+                        <span><a href="courses">Cursos</a></span>
                         <span class="dvdr"><i class="fa-regular fa-angle-right"></i></span>
-                        <span><a href="course-list.html">Metodologia Bim</a></span>
+                        <span><a href="metodologia-bim">Metodologia Bim</a></span>
                         <span class="dvdr"><i class="fa-regular fa-angle-right"></i></span>
                         <span class="sub-page-black">Especialista Modelador Bim</span>
                      </div>
@@ -52,25 +51,25 @@
             <div class="row">
                <div class="col-lg-8 col-md-12">
                   <div class="c-details-wrapper mr-25">
-                  <div class="postbox__thumb postbox__slider w-img mb-30 p-relative">
-                           <div class="blog-item-active">
-                              <div class="postbox__slider-item">
-                                 <img src="assets/img/blog/1.jpg" alt="">
-                              </div>
-                              <div class="postbox__slider-item">
-                                 <img src="assets/img/blog/2.jpg" alt="">
-                              </div>
-                              <div class="postbox__slider-item">
-                                 <img src="assets/img/blog/3.jpg" alt="">
-                              </div>
-                              <div class="postbox__slider-item">
-                                 <img src="assets/img/blog/4.jpg" alt="">
-                              </div>
-                              <div class="postbox__slider-item">
-                                 <img src="assets/img/blog/5.jpg" alt="">
-                              </div>
+                     <div class="postbox__thumb postbox__slider w-img mb-30 p-relative">
+                        <div class="blog-item-active">
+                           <div class="postbox__slider-item">
+                              <img src="assets/img/blog/1.jpg" alt="">
+                           </div>
+                           <div class="postbox__slider-item">
+                              <img src="assets/img/blog/2.jpg" alt="">
+                           </div>
+                           <div class="postbox__slider-item">
+                              <img src="assets/img/blog/3.jpg" alt="">
+                           </div>
+                           <div class="postbox__slider-item">
+                              <img src="assets/img/blog/4.jpg" alt="">
+                           </div>
+                           <div class="postbox__slider-item">
+                              <img src="assets/img/blog/5.jpg" alt="">
                            </div>
                         </div>
+                     </div>
                      <div class="course-details-content mb-45">
                         <!-- <div class="tpcourse__category mb-15">
                            <ul class="tpcourse__price-list d-flex align-items-center">
@@ -85,12 +84,12 @@
                            <ul class="d-flex align-items-center">
                               <li>
                                  <div class="rating-gold d-flex align-items-center">
-                                    <p>4.7</p>
+                                    <p>5</p>
                                     <i class="fi fi-ss-star"></i>
                                     <i class="fi fi-ss-star"></i>
                                     <i class="fi fi-ss-star"></i>
                                     <i class="fi fi-ss-star"></i>
-                                    <i class="fi fi-rs-star"></i>
+                                    <i class="fi fi-ss-star"></i>
                                     <span>(125)</span>
                                  </div>
                               </li>
@@ -107,7 +106,7 @@
                         <h4 class="tp-c-details-title mb-40">Instructores</h4>
                         <div class="course-instructor-details d-flex f-wrap align-items-center">
                            <div class="course-avata mr-30 mb-20">
-                              <img src="assets/img/course/c-details-ava-thumb-01.jpg" alt="avata-thumb">
+                              <img src="assets/img/course/p-1.jpg" alt="avata-thumb">
                            </div>
                            <div class="course-avatar-details mb-20">
                               <h5 class="c-avata-title mb-10">Cesar .A Tuestas Alonso</h5>
@@ -135,8 +134,8 @@
                               </div>
                            </div>
                         </div>
-                        
-                        
+
+
                      </div>
                      <div class="c-details-review pb-15">
                         <div class="c-review-title-wrapper">
@@ -218,11 +217,11 @@
                      </div>
                      <div class="course-details-widget">
                         <div class="cd-video-price">
-                           
+
                            <div class="cd-pricing-btn text-center mb-30">
                               <a class="tp-vp-btn" href="assets/pdf/brochure01.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i> Brochure</a>
                               <a class="tp-vp-btn-green" href="https://api.whatsapp.com/send?phone=984749614&text=Hola, Nececito mas informacion sobre el curso Especialista Modelador Bim" target="_blank"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a>
-                             
+
 
                            </div>
                         </div>
@@ -257,13 +256,13 @@
                <div class="col-md-12">
                   <div class="section-title text-center mb-65">
                      <span class="tp-sub-title-box mb-15">Otros Cursos</span>
-                 
+
                   </div>
                </div>
             </div>
             <div class="row mb-20">
 
-            <div class="col-xl-4 col-lg-6 col-md-6">
+               <div class="col-xl-4 col-lg-6 col-md-6">
                   <div class="tpcourse mb-40">
                      <div class="tpcourse__thumb p-relative w-img fix">
                         <a href="especialista_bim_mep"><img src="assets/img/course/2.jpg" alt="course-thumb"></a>
@@ -281,9 +280,9 @@
                         </div>
                         <div class="tpcourse__category mb-10">
                            <ul class="tpcourse__price-list d-flex align-items-center">
-                           <li><a class="c-color-yellow" href="especialista_bim_mep">Mas detalles</a></li>
+                              <li><a class="c-color-yellow" href="especialista_bim_mep">Mas detalles</a></li>
                               <li><a class="c-color-green" href="https://api.whatsapp.com/send?phone=984749614&text=Hola, Nececito mas informacion sobre el curso Especialista Bim Mep" target="_blank"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
-                              
+
                            </ul>
                         </div>
                         <!-- <div class="tpcourse__meta tpcourse__meta-gap pb-15 mb-15">
@@ -327,7 +326,7 @@
                            <ul class="tpcourse__price-list d-flex align-items-center">
                               <li><a class="c-color-yellow" href="especialista-coordinador-bim">Mas detalles</a></li>
                               <li><a class="c-color-green" href="https://api.whatsapp.com/send?phone=984749614&text=Hola, Nececito mas informacion sobre el curso Especialista Coordinador Bim" target="_blank"><i class="fa-brands fa-whatsapp"></i> Enviar Mensaje</a></li>
-                              
+
                            </ul>
                         </div>
                         <!-- <div class="tpcourse__meta tpcourse__meta-gap pb-15 mb-15">
@@ -351,32 +350,32 @@
                      </div>
                   </div>
                </div>
-            <div class="basic-pagination">
-               <nav>
-                  <ul>
-                     <li>
-                        <a href="metodologia-bim.php">
-                           <i class="far fa-angle-left"></i>
-                        </a>
-                     </li>
-                     <li>
-                        <span class="current">1</span>
-                     </li>
-                     <!-- <li>
+               <div class="basic-pagination">
+                  <nav>
+                     <ul>
+                        <li>
+                           <a href="metodologia-bim.php">
+                              <i class="far fa-angle-left"></i>
+                           </a>
+                        </li>
+                        <li>
+                           <span class="current">1</span>
+                        </li>
+                        <!-- <li>
                         <a href="blog.html">2</a>
                      </li>
                      <li>
                         <a href="blog.html">3</a>
                      </li> -->
-                     <li>
-                        <a href="blog.html">
-                           <i class="far fa-angle-right"></i>
-                        </a>
-                     </li>
-                  </ul>
-                </nav>
+                        <li>
+                           <a href="blog.html">
+                              <i class="far fa-angle-right"></i>
+                           </a>
+                        </li>
+                     </ul>
+                  </nav>
+               </div>
             </div>
-         </div>
       </section>
       <!-- course-area-end -->
 
@@ -386,7 +385,7 @@
 
    </main>
 
-   <?php include("assets/shared/footer.php"); ?>       
+   <?php include("assets/shared/footer.php"); ?>
 
 
 
